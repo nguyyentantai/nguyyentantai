@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguyyentantai
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning at University of Science
+- 🌱 I graduated from University of Science
 - 📫 How to reach me: mykendokai.com@gmail.com (Gmail) or live:mykendokai.com (Skype)
 
 <!---
