@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nguyyentantai
 - 👀 I’m interested in web development
 - 🌱 I graduated from University of Science
+- 🦄 I am working as Frontend Developer at Employment Hero
 - 📫 How to reach me: mykendokai.com@gmail.com (Gmail) or live:mykendokai.com (Skype)
 
 <!---
